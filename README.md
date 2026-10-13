@@ -23,12 +23,8 @@ Python,Pandas,Scikit-learn,Matplotlib,Seaborn,Jupyter Notebook,Joblib,Pickle
 Food-Order-Value-Prediction/
 
 ├── Laporan.ipynb
-
 ├── food_orders_new_delhi (1).csv
-
 ├── gbr_model.joblib
-
 ├── gbr_model.pkl
-
 └── README.md
 ```
